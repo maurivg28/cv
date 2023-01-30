@@ -126,6 +126,15 @@ content:
           - Level 1 on site and remote support for different clients using Microsoft and Linux technologies.
           - Network troubleshooting.
           - Linux server administration (OpenSuse).
+      - layout: right
+        title: GHM Uruguay
+        sub_title: Technician
+        caption: January 2008 - March 2008
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          **Description of role:**
+          - Assembling and repairing computers.
   - title: Education
     layout: list
     content:
@@ -188,6 +197,13 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           I took the Kubernetes administration course, which had 22 theoretical hours, plus labs and mock exams.
+      - layout: top-right
+        title: Linux Administration
+        sub_title: Linux Administrator.
+        caption: 2009
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          I took a linux administration course based on OpenSuse.
   - title: Summary of Qualifications
     layout: text
     content: | # this will include new lines to allow paragraphs
