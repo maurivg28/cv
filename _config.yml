@@ -43,34 +43,34 @@ about_content: | # this will include new lines to allow paragraphs
   Mauricio, has more than 10 years of experience working in IT. He has participated and led different migration projects (Applications, Mail Systems, Hybrid Clouds, etc). handling all kinds of technologies. He has strong knowledge of Microsoft technologies (AD, SQL, Azure, SharePoint, Office 365, Azure, etc); and Virtualization technologies (VmWare, HyperV, etc). Currently, he was participating in migration projects of payment means applications to Azure, using DevOps methodologies and tools such as Ansible, Terraform and Azure DevOps. He also has knowledge of kubernetes and orchestrators (Rancher, OKD, etc.); and has also participated in the implementation of these technologies.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Blue green deployment
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Amazon ECS blue green deployment
-        description: | # this will include new lines to allow paragraphs
-          Creation of two ECS clusters in two different regions using terraform to deploy all its infrastructure.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: Blue green deployment
+  #       # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       # link_text: Link Text
+  #       # additional_links:
+  #       #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #       #     icon: fab fa-github
+  #       #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #       #     icon: fab fa-github
+  #       #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Amazon ECS blue green deployment
+  #       description: | # this will include new lines to allow paragraphs
+  #         Creation of two ECS clusters in two different regions using terraform to deploy all its infrastructure.
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Globant
+        sub_title: Sr. Cloud Engineer
+        caption: Agost 2021 - present
+        link: https://globant.com
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
