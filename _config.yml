@@ -38,7 +38,7 @@ linkedin_username: https://uy.linkedin.com/in/mauricio-villagr%C3%A1n-garc%C3%AD
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/Perfil.png
+about_profile_image: images/Perfil.JPEG
 about_content: | # this will include new lines to allow paragraphs
   Mauricio, has more than 10 years of experience working in IT. He has participated and led different migration projects (Applications, Mail Systems, Hybrid Clouds, etc). handling all kinds of technologies. He has strong knowledge of Microsoft technologies (AD, SQL, Azure, SharePoint, Office 365, Azure, etc); and Virtualization technologies (VmWare, HyperV, etc). Currently, he was participating in migration projects of payment means applications to Azure, using DevOps methodologies and tools such as Ansible, Terraform and Azure DevOps. He also has knowledge of kubernetes and orchestrators (Rancher, OKD, etc.); and has also participated in the implementation of these technologies.
 
