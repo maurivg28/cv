@@ -178,6 +178,16 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           - MCTS: Configuring Microsoft Exchange Server 2010.
+  - title: Courses
+    layout: list
+    content:
+      - layout: top-right
+        title: CKA Certification
+        sub_title: Udemy CKA Kubernetes Administrator.
+        caption: 2017
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          I took the Kubernetes administration course, which had 22 theoretical hours, plus labs and mock exams.
   - title: Summary of Qualifications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -188,7 +198,6 @@ content:
         | Ansible | Terraform | Powershell | PowerShell DSC | Harness |
         | Istio | CloudTruth | CI/CD | Bash | NodeJs Scripts |
         | Responsible | Resilience | Committed | Teamwork | Leadership|
-
 
 # Footer
 footer_show_references: true
