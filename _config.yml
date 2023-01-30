@@ -74,9 +74,12 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
           **Description of role:**
-          - asdsadasd
-          - asdasdasd
-          - dasdsadasd
+          - Multi-region infrastructure management on AWS.
+          - Development of infrastructure as code using Terraform.
+          - Migrating from ECS to EKS.
+          - Use of CI/CD tools such as Harness and Gitlab.
+          - EKS administration.
+          - Technical lead.
       - layout: right
         title: Pyxis
         sub_title: Sr. System Administrator
@@ -96,6 +99,22 @@ content:
           - Migration of on premises Microsoft Exchange Servers to Office365.
           - Migration of Microsoft Exchange Servers to new versions.
           - Migration of different Microsoft Technologies, such as (Active Directory, SQL Server, IIS, SharePoint, System Center, etc.).
+      - layout: right
+        title: Arnaldo Castro
+        sub_title: Sr. System Administrator
+        caption: May 2010 - January 2014
+        link: https://arnaldocastro.com.uy
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          **Description of role:**
+          - Migration, Installation, configuration, and administration of virtualization systems (VMWare).
+          - Migration, Installation, and configuration of systems (Microsoft).
+          - Configuration, administration and resolution of network problems.
+          - Development of automatic tasks with scritpting using Bash, and PowerShell.
+          - Installation, configuration and administration of monitoring and reporting tools.
+          - Installation, configuration and administration of OpenSource systems for company branches.
+          - Deployment, configuration and administration of services such as Squid, Apache, DNS, Postfix.
+          - Installation, configuration and administration of backup tools, for both Virtual and OnPremise infrastructure.
 
   - title: Education
     layout: list
@@ -112,7 +131,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Proficient In:**
-      
+
         | Gitlab  | AWS  | Microsoft Technologies  | Virtualization Technologies  | Azure Cloud  |
         | Azure DevOps | Jenkins | Kubernetes | Docker | Git repositories |
         | Ansible | Terraform | Powershell | PowerShell DSC | Harness |
