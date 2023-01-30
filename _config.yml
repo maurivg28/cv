@@ -91,7 +91,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       Proficient In:
         - Gitlab
-        - Terraform
         - AWS
         - Microsoft Technologies
         - Virtualization Technologies
