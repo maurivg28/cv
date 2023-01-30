@@ -73,10 +73,10 @@ content:
         link: https://globant.com
         quote: 
         description: | # this will include new lines to allow paragraphs
-          ## Description of role:
-            - asdsadasd
-            - asdasdasd
-            - dasdsadasd
+          **Description of role:**
+          - asdsadasd
+          - asdasdasd
+          - dasdsadasd
       - layout: right
         title: Pyxis
         sub_title: Sr. System Administrator
@@ -84,7 +84,7 @@ content:
         link: https://pyxis.com.uy
         quote: 
         description: | # this will include new lines to allow paragraphs
-        ## Description of role:
+          **Description of role:**
           - Architecture design for payment application migration developed in .net to Azure. Infrastructure development as code (Using, Terraform, and Ansible for configuration), and implementation of it through CI / CD process with Azure DevOps.
           - Support to development teams to implement the application code under CI / CD, using Azure DevOps.
           - Implementation of different Azure solutions. (For example, WVD, Azure SQL, etc).
@@ -111,7 +111,7 @@ content:
   - title: Summary of Qualifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Proficient In
+      **Proficient In:**
         | Gitlab  | AWS  | Microsoft Technologies  | Virtualization Technologies  | Azure Cloud  |
         | Azure DevOps | Jenkins | Kubernetes | Docker | Git repositories |
         | Ansible | Terraform | Powershell | PowerShell DSC | Harness |
