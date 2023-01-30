@@ -71,10 +71,28 @@ content:
         sub_title: Sr. Cloud Engineer
         caption: August 2021 - present
         link: https://globant.com
-        quote: >
-          Short description of the company (optional)
+        quote: 
         description: | # this will include new lines to allow paragraphs
           Description of role
+      - layout: right
+        title: Pyxis
+        sub_title: Sr. System Administrator
+        caption: March 2014 - August 2021
+        link: https://pyxis.com.uy
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          - Architecture design for payment application migration developed in .net to Azure. Infrastructure development as code (Using, Terraform, and Ansible for configuration), and implementation of it through CI / CD process with Azure DevOps.
+          - Support to development teams to implement the application code under CI / CD, using Azure DevOps.
+          - Implementation of different Azure solutions. (For example, WVD, Azure SQL, etc).
+          - Implementation of different kubernetes orchestrators. (For example, OKD and Rancher).
+          - Infrastructure provision as a service (IaaS) using Devops tools.
+          - Platform as a service (PaaS) provisioning using Devops tools.
+          - Administration, design, infrastructure and systems support.
+          - Database installation, configuration and administration.
+          - Migration of on premises Microsoft Exchange Servers to Office365.
+          - Migration of Microsoft Exchange Servers to new versions.
+          - Migration of different Microsoft Technologies, such as (Active Directory, SQL Server, IIS, SharePoint, System Center, etc.).
+
   - title: Education
     layout: list
     content:
