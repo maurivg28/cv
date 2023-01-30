@@ -16,7 +16,7 @@ website: https://blog.mauriciovillagran.uy
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 linkedin_username: https://uy.linkedin.com/in/mauricio-villagr%C3%A1n-garc%C3%ADa-43a54b25
