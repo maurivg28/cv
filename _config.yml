@@ -134,9 +134,50 @@ content:
         sub_title: Bachelor Degree.
         caption: 1997 - 2004.
         quote: >
-          Short institution or course description (optional)
+          At the Solymar high school I continued my studies in the scientific orientation and then in the engineering orientation.
         description: | # this will include new lines to allow paragraphs
           I have received a bachelor's degree in engineering orientation.
+  - title: Certifications
+    layout: list
+    content:
+      - layout: top-right
+        title: Azure administrator
+        sub_title: Microsoft Certification.
+        caption: 2017
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - MCSE: Implementing Microsoft Azure Infrastructure Solutions.
+          - MCSE: Cloud Platform and Infrastructure.
+      - layout: top-right
+        title: Sharepoint Server
+        sub_title: Microsoft Certification.
+        caption: 2014
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - MCSE Core Solutions of Microsoft SharePoint Server 2013.
+      - layout: top-right
+        title: Windows Server 2012
+        sub_title: Microsoft Certification.
+        caption: 2013
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - MCSA-MCSE: Installing and Configuring Windows Server 2012.
+          - MCSA-MCSE: Administering Windows Server 2012.
+          - MCSA - MCSE: Configuring Advanced Windows Server 2012 Services.
+      - layout: top-right
+        title: Microsoft Dynamics CRM 2011
+        sub_title: Microsoft Certification.
+        caption: 2012
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - MCTS: Microsoft Dynamics CRM 2011 Installation and Configuration.
+      - layout: top-right
+        title: Exchange 2010
+        sub_title: Microsoft Certification.
+        caption: 2012
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+          - MCTS: Configuring Microsoft Exchange Server 2010.
   - title: Summary of Qualifications
     layout: text
     content: | # this will include new lines to allow paragraphs
