@@ -8,12 +8,12 @@ version: 2
 # Personal info
 name: Mauricio Villagran
 title: Sr. Cloud Engineer
-# email: Your email (optional)
-# email_title: Email (Email title override)
+email: maurivg25@gmail.com
+email_title: Email
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: https://blog.mauriciovillagran.uy
-# website_title: Web (Website title override)
+website_title: Mauricio Villagran blog
 
 # Dark Mode (true/false/never)
 darkmode: false
