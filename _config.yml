@@ -90,25 +90,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Proficient In:
-        - Gitlab
-        - AWS
-        - Microsoft Technologies
-        - Virtualization Technologies
-        - Azure Cloud
-        - Azure DevOps
-        - Jenkins
-        - Kubernetes
-        - Docker
-        - Git repositories
-        - Ansible
-        - Terraform
-        - Powershell
-        - PowerShell DSC
-        - Responsible
-        - Resilience
-        - Committed
-        - Teamwork
-        - Leadership
+        |   |   |   |   |   |
+        |---|---|---|---|---|
+        | Gitlab  | AWS  | Microsoft Technologies  | Virtualization Technologies  | Azure Cloud  |
+        | Azure DevOps | Jenkins | Kubernetes | Docker | Git repositories |
+        | Ansible | Terraform | Powershell | PowerShell DSC | Harness |
+        | Istio | CloudTruth | CI/CD | Bash | NodeJs Scripts |
+        | Responsible | Resilience | Committed | Teamwork | Leadership|
 
 
 # Footer
