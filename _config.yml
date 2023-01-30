@@ -115,18 +115,28 @@ content:
           - Installation, configuration and administration of OpenSource systems for company branches.
           - Deployment, configuration and administration of services such as Squid, Apache, DNS, Postfix.
           - Installation, configuration and administration of backup tools, for both Virtual and OnPremise infrastructure.
-
+      - layout: right
+        title: IDS Ltda
+        sub_title: Support Engineer
+        caption: October 2008 - May 2010
+        link: https://www.idsltda.uy
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          **Description of role:**
+          - Level 1 on site and remote support for different clients using Microsoft and Linux technologies.
+          - Network troubleshooting.
+          - Linux server administration (OpenSuse).
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Solymar High School
+        sub_title: Bachelor Degree.
+        caption: 1997 - 2004.
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I have received a bachelor's degree in engineering orientation.
   - title: Summary of Qualifications
     layout: text
     content: | # this will include new lines to allow paragraphs
