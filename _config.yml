@@ -79,6 +79,8 @@ content:
           - Migrating from ECS to EKS.
           - Use of CI/CD tools such as Harness and Gitlab.
           - EKS administration.
+          - Implementation of a multi-region Blue/Green environment with high availability in an AWS ECS cluster, using Terrafrom as IaC and Gitlab for deployment.
+          - Implementation of environment variable manager for EKS called CloudTruth.
           - Technical lead.
       - layout: right
         title: Pyxis
