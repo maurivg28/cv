@@ -13,7 +13,7 @@ website: https://blog.mauriciovillagran.uy
 website_title: Web
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 # Social links
 linkedin_username: Mauricio Villagran Garcia
@@ -21,11 +21,11 @@ linkedin_username: Mauricio Villagran Garcia
 # About Section
 about_profile_image: /images/Perfil.jpg
 about_content: |
-  Senior Platform Engineer / Lead SRE with 15+ years of experience designing and operating cloud-native platforms at scale.
+  Senior Platform Engineer / Lead SRE with 15+ years of experience designing, automating, and operating cloud-native platforms and enterprise infrastructure at scale.
 
-  Specialized in Kubernetes and Red Hat OpenShift (ROSA), GitOps workflows, and multi-cloud architectures across AWS and Azure. Strong focus on Platform Engineering, centralized CI/CD frameworks, and enterprise observability.
+  Specialized in Kubernetes, Red Hat OpenShift (ROSA), GitOps workflows, and designing robust deployment automation across AWS, Azure, and Hybrid/On-Premise environments. Strong expertise in Platform Engineering, centralized CI/CD frameworks (Azure DevOps, GitLab), automation via scripting (PowerShell, Bash), and enterprise observability.
 
-  Proven track record leading large-scale transformations, including GitOps adoption, multi-region architectures, and enterprise monitoring standardization. Passionate about automation, reliability, and improving developer experience.
+  Proven track record leading large-scale transformations, optimizing high-availability mission-critical databases (SQL Server), and driving deployment reliability. Passionate about automation, system resiliency, and improving developer experience.
 
 content:
   - title: Experience
@@ -77,23 +77,22 @@ content:
         link: https://pyxis.com.uy
         description: |
           - Designed Azure migration architecture for payment systems using Terraform and Ansible.
-          - Implemented CI/CD pipelines using Azure DevOps.
-          - Deployed Kubernetes platforms (OKD, Rancher).
-          - Managed IaaS and PaaS environments using DevOps practices.
-          - Led enterprise migrations (Exchange, Active Directory, SQL Server, SharePoint).
+          - Implemented advanced CI/CD pipelines from scratch using Azure DevOps for critical environments.
+          - Managed IaaS and PaaS environments using DevOps practices, ensuring high availability and secure rollbacks.
+          - Deployed and operated enterprise Kubernetes platforms (OKD, Rancher) and managed IIS web environments.
+          - Led mission-critical enterprise migrations and production tuning (Exchange, Active Directory, SQL Server, SharePoint).
 
       - layout: right
         title: Arnaldo Castro
-        sub_title: Senior System Administrator
+        sub_title: Senior System Administrator & Automation Specialist
         caption: May 2010 - February 2014
         link: https://arnaldocastro.com.uy
         description: |
-          - Migration and administration of VMware virtualization environments.
-          - Network troubleshooting and Linux administration.
-          - Automation using Bash and PowerShell.
-          - Monitoring tools implementation.
-          - Deployment of services such as Squid, Apache, DNS, Postfix.
-          - Backup management for on-premise and virtual environments.
+          - Designed and developed advanced automation scripts using PowerShell and Bash to streamline deployments and infrastructure provisioning.
+          - Migration, administration, and performance tuning of SQL Server databases and Windows/Linux production environments.
+          - Management and migration of enterprise VMware virtualization environments and failover clustering.
+          - Deployment of high-availability services such as Squid, Apache, IIS, DNS, and Postfix.
+          - Implementation of centralized monitoring tools and backup management for critical environments.
 
       - layout: right
         title: IDS Ltda
@@ -116,51 +115,48 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: GitOps Transformation
+        title: GitOps & Deployment Automation
         description: |
-          - Standardized delivery model using ArgoCD and Helm across multiple teams and technologies.
+          - Standardized delivery models using ArgoCD, Helm, and Azure DevOps across multiple teams, ensuring safe rollbacks and zero-downtime releases.
 
       - layout: top-right
         title: Platform Engineering Enablement
         description: |
-          - Built centralized CI/CD templates, reducing duplication and improving developer experience.
+          - Built centralized CI/CD templates (GitLab, Azure DevOps), reducing duplication and drastically improving developer experience.
 
       - layout: top-right
         title: Enterprise Observability
         description: |
-          - Led Datadog implementation across multi-cloud and OpenShift environments.
+          - Led Datadog, Splunk, and Zabbix implementations across multi-cloud, on-premise, and OpenShift environments.
 
       - layout: top-right
-        title: Kubernetes Adoption at Scale
+        title: Production Tuning & Infrastructure
         description: |
-          - Migrated workloads from ECS to EKS and managed OpenShift (ROSA) environments.
+          - Proven track record optimizing mission-critical SQL Server environments and automating Windows/Linux servers at scale.
 
   - title: Technical Skills
     layout: text
     content: |
       **Platform & Cloud:**
-      AWS, Azure, Red Hat OpenShift (ROSA), Kubernetes (EKS, AKS, OKD, Rancher)
+      AWS, Azure, Red Hat OpenShift (ROSA), Kubernetes (EKS, AKS, OKD, Rancher), Windows Server, Linux (Ubuntu/Debian)
 
       **Containers & GitOps:**
       Docker, Helm, ArgoCD
 
-      **Infrastructure as Code:**
-      Terraform, Ansible, CloudFormation
+      **Infrastructure as Code & Automation:**
+      Terraform, Ansible, CloudFormation, PowerShell Scripting (Advanced), Bash
 
       **CI/CD & Platform Engineering:**
-      GitLab CI/CD, GitHub Actions, Azure DevOps, Jenkins, Harness
+      Azure DevOps, GitLab CI/CD, GitHub Actions, Jenkins, Harness
 
-      **Observability & SRE:**
-      Datadog, Splunk, Dynatrace, New Relic
+      **Data & Observability:**
+      SQL Server (T-SQL, Performance Tuning), Datadog, Splunk, Dynatrace, New Relic, Zabbix/Grafana
 
       **Networking & Service Mesh:**
-      Istio, AWS API Gateway, CloudFront, Route53, ALB/NLB
-
-      **Scripting:**
-      Bash, PowerShell, Python
+      Istio, IIS, AWS API Gateway, CloudFront, Route53, ALB/NLB
 
       **Concepts:**
-      Platform Engineering, SRE, GitOps, High Availability, Scalability, Security, Multi-Cloud
+      Platform Engineering, SRE, GitOps, Deployment Automation, High Availability, Scalability, Security, Multi-Cloud
 
   - title: Languages
     layout: list
